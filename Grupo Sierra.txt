@@ -1,0 +1,84 @@
+<html>
+	
+ <head>
+	
+<h1> Grupo Sierra </h1> <p>
+
+ </head>
+		
+  <body>
+
+
+
+  <h2><p>
+		
+  <h3>Integrantes del grupo</h3>
+
+  <ul>
+
+<img src="Franco.jpg" alt="Franco" 
+width="150" height="200" />
+
+<table>
+
+
+<tr>
+
+<a "href="mailto:
+//francodanielorlandi@gmail.com"  <td> 
+francodanielorlandi@gmail.com <td/> 
+<tr/>
+
+
+
+</table>
+
+<li>Franco Orlandi </li>
+
+
+
+<img src="Alessio.jpg" alt="Alessio" 
+width="150" height="200" />
+
+<table>
+
+
+
+<tr>
+
+<a "href="mailto://
+alesiogamernegri@gmail.com">   <td> 
+alesiogamernegri@gmail.com </td> 
+<tr/>
+
+
+
+</table>
+
+<li>Alesio Negri </li>
+	
+   <ul/>
+
+<hr>
+
+
+
+
+
+
+
+<hr>
+
+
+
+
+
+
+
+		</body>
+
+
+
+
+
+</html>
